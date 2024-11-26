@@ -26,4 +26,4 @@ Este script requer que as seguintes ferramentas estejam instaladas no seu sistem
 ## Como Usar
 1. Baixe o codigo ou copie
 2. De permissão: chmod +x script.sh
-3. ./script.sh senai pdf
+3. ./script.sh senai.br pdf
