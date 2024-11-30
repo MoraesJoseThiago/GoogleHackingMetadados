@@ -27,3 +27,87 @@ Este script requer que as seguintes ferramentas estejam instaladas no seu sistem
 1. Baixe o codigo ou copie
 2. De permissão: chmod +x script.sh
 3. ./script.sh senai.br pdf
+
+
+--------------------------------------------------------------------------------------------------------------
+
+# Para o script 2 - Deixei comentado oque faz
+
+##Desenvolvimento Web
+HTML: .html, .htm
+CSS: .css
+JavaScript: .js
+PHP: .php
+ASP.NET: .aspx
+Python (Web frameworks como Django, Flask): .py
+Ruby (Rails): .rb
+EJS (Templates): .ejs
+Handlebars: .hbs
+Vue.js: .vue
+React (JSX): .jsx
+Angular: .ts
+JSON (Configuração ou API): .json
+XML: .xml
+
+
+## Back-End e Scripts
+Python: .py
+Perl: .pl
+Ruby: .rb
+Bash Script: .sh
+Batch: .bat
+PowerShell: .ps1
+Java: .java
+C#: .cs
+C++: .cpp, .h
+C: .c, .h
+Go: .go
+
+##Banco de Dados
+SQL Scripts: .sql
+SQLite: .sqlite, .db
+MySQL/MariaDB Dump: .sql
+PostgreSQL Dump: .dump
+
+## Arquivos de Configuração
+JSON: .json
+YAML: .yaml, .yml
+INI: .ini
+TOML: .toml
+Properties: .properties
+XML: .xml
+Design e Multimídia
+Imagens: .jpg, .jpeg, .png, .gif, .svg, .webp, .ico
+Vídeos: .mp4, .mkv, .avi, .mov, .webm
+Áudio: .mp3, .wav, .ogg, .aac
+
+## Arquivos de Dados
+CSV: .csv
+Excel: .xls, .xlsx
+Parquet: .parquet
+Feather: .feather
+Documentação e Apresentação
+Texto: .txt
+Markdown: .md
+Rich Text Format: .rtf
+PDF: .pdf
+Word: .doc, .docx
+PowerPoint: .ppt, .pptx
+
+
+## Compactação e Backup
+ZIP: .zip
+RAR: .rar
+TAR: .tar
+GZ: .gz
+7z: .7z
+
+
+## Outros Arquivos Relevantes
+Log Files: .log
+Executáveis: .exe, .bin
+Scripts de Máquina: .makefile
+Docker: Dockerfile, .dockerignore
+Kubernetes: .yaml
+Terraform: .tf
+Certificados: .crt, .cer, .pem, .key
