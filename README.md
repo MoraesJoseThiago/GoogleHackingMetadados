@@ -31,9 +31,9 @@ Este script requer que as seguintes ferramentas estejam instaladas no seu sistem
 
 --------------------------------------------------------------------------------------------------------------
 
-# Para o script 2 - Deixei comentado oque faz
+# Para o script 2 - Deixei comentado no codigo oq faz
 
-##Desenvolvimento Web
+## Desenvolvimento Web
 HTML: .html, .htm
 CSS: .css
 JavaScript: .js
